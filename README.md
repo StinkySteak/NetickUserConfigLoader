@@ -2,6 +2,10 @@
 Plugin for [Netick](https://github.com/karrarrahim/NetickForUnity) to change the netick config before launching netick, similarly how minecraft `server.properties` works. This plugin is for you if you want to test and change your server config without rebuilding.  
 Make sure essential properties is matched between server and client!
 
+| Feature   	        | Status 	|
+|-----------	        |--------	|
+| Netick Config Loader 	| Beta   	|
+
 ## File Location
 - The `netickConfig.properties` will be generated and loaded beside the game executeable file
 
