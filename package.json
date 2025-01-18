@@ -1,0 +1,15 @@
+{
+  "name": "com.stinkysteak.com.netick-config-loader",
+  "version": "0.1.0",
+  "displayName": "Netick Config Loader",
+  "description": "Load, change and override netick config from a file",
+  "unity": "2021.3",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "author": {
+    "name": "Stinkysteak",
+    "email": "stinkysteak@steaksoft.com",
+    "url": "https://steaksoft.net"
+  }
+}
